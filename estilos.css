@@ -1,0 +1,89 @@
+
+@media only screen and (max-width: 600px) {
+    body {
+      margin: 1% 1% 1% 2% !important;
+    }
+    #uno{          
+              padding: 5% 5% 5% 10% !important;
+              margin: 1% 1% 1% 5% !important;
+              border: 0px #fff solid;
+          } 
+          #dos{            
+              margin:  1% 1% 1% -18% !important;
+              padding: 0%;         
+          }
+          #tres{              
+              margin-left:10% !important;
+              padding-left: 0% !important;
+              border: 0px #000 solid;         
+          }
+  
+          #subscrito{
+  
+              margin-left: 21% !important;
+          }
+          #elboton{
+           margin: 20% 20% 20% 31% !important;
+          }
+          .subscribeTop{
+            margin-top:10% !important;
+          }
+          #cuatro{
+            border: 0px solid #fff;
+            margin: 0% !important;
+            padding: 0% !important;   
+        } 
+
+        .letrasubscrita {
+          margin: 0% 0% 0% 0% !important;
+          
+        }
+
+        .cuadro {
+          margin-left:-3.5% !important;
+        }
+  } 
+          body { 
+              background-color: #02609f; 
+              margin: 1% 10% 10% 10%;        
+          }  
+          .colorblanco{
+              color: #fff;
+          }
+          .colorazul{
+              color: rgb(5, 45, 224);
+          }
+          #uno{
+              
+              padding: 5%;
+              margin: 1% 10% 10% 10% ;
+          }
+          #dos{           
+              margin:  1% 15% 15% 15%;
+              padding: 5%  5%  0%  5%;        
+          } 
+          #tres{              
+              margin: 1% 15% 15% 15%;
+              padding: 0%;        
+          }
+          .centrado{
+              margin: 5% 5% 5% 13%;
+          }
+          #subscrito{
+  
+         margin: 1% 1% 1% 35%;
+        }
+
+         #elboton{
+            margin: 25%;
+          }
+          #cuatro{
+            border: 0px solid #fff;
+            margin: 1% 15% 15% 15%;
+            padding: 5% 5% 5% 15%;
+        }
+
+        .letrasubscrita {
+          margin: 0% 10% 10% 25% !important;
+
+        }
